@@ -17,4 +17,4 @@ function isAnagram(str1,str2){
 
 }
 
-console.log(isAnagram("mahi","mahi"));
+console.log(isAnagram("silent","listen"));
